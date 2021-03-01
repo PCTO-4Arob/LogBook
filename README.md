@@ -1,7 +1,3 @@
-README
-
-LogBook
-
 # LogBook
 
 ## Logbook of our project :rocket:
