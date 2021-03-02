@@ -11,3 +11,4 @@
 |2/03| Ferrando  | Developer | started with image recon | none | 3h opencv 3h meeting|
 |2/03| Alpigiano  | Developer | started with image recon | none | 3h opencv 3h meeting|
 |2/03| Tomatis   | Design Programmer| implement interface and training | none | code to complete tomorrow
+|2/03| Fenoglio   | Design Programmer| implement game interface and training | none | 3h code 3h meeting
