@@ -10,3 +10,4 @@
 |1/03| Tomatis   | Design Programmer     | learn git and define the game concept|                   |      |
 |2/03| Ferrando  | Developer | started with image recon | none | errors with the timing|
 |2/03| Alpigiano  | Developer | started with image recon | none | errors with the timing|
+|3/03| Tomatis   | Design Programmer| implement interface and training | none | code to complete tomorrow
