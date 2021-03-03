@@ -13,3 +13,4 @@
 |2/03| Tomatis   | UI Programmer| implement interface and training | none | code to complete tomorrow
 |2/03| Fenoglio  | Design Programmer| implement game interface and training | none | 3h code 3h meeting
 |3/03| Tomatis   | UI Programmer| end the start menu interface | none | unnecessary 
+|3/03| Ferrando  | Developer | finished audio recon, started with multi-threading | none | 6h|
