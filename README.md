@@ -19,3 +19,4 @@
 |4/03| Ferrando | Developer | rewrited main, refinished speechToText, | none |6h|
 |4/03| Fenoglio | Developer | rewrited GameDesign, in part | none |6h|
 |4/03| Tomatis | UI Programmer | fix the game interface & opencv color track | none | 6h |
+|4/03| Alpigiano | Developer | help Ferrando to rewrit the main and to refinish the speechToText | none |6h|
