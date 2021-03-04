@@ -17,4 +17,5 @@
 |3/03| Fenoglio  | Developer/ design programmer| programming and designe of red cowboy's win, general commenting| none | 6h|
 |3/03| Alpigiano  | Developer |  finished audio recon, started with multi-threading, equations creation algorithm| none | 8h|
 |4/03| Ferrando | Developer | rewrited main, refinished speechToText, | none |6h|
-|4/03| Fenoglio | Developer | rewrited GameDesign, | none |6h|
+|4/03| Fenoglio | Developer | rewrited GameDesign, in part | none |6h|
+|4/03| Tomatis | UI Programmer | fix the game interface & opencv color track | none | 6h |
