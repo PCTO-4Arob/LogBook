@@ -22,3 +22,4 @@
 |4/03| Alpigiano | Developer | help Ferrando to rewrit the main and to refinish the speechToText | none |6h|
 |4/03| Ferrando | Developer | finished setup for debian-based distro and arch-based distro| none | 2h|
 |5/03| Tomatis | UI Programmer | terminate the demo developing & present it to experts | none | 6h + 2H
+|5/03| Fenoglio | Developer | rewrite final_animation | none | 6h + 2H
