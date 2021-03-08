@@ -25,3 +25,4 @@
 |5/03| Fenoglio | Developer | rewrite final_animation | none | 6h + 2H
 |5/03| Ferrando | Developer | finished voice recon menu and starting to finishing the main| none | 6h + 2h|
 |5/03| Alpigiano | Developer | help Ferrando to finish voice recon and menu| none | 6h |
+|8/03| Ferrando | DevOps | created install tutorial, better github page| none | 6h |
