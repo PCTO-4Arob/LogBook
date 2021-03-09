@@ -29,3 +29,4 @@
 |8/03| Tomatis | UI Programmer & Developer| Solve some bugs (see the issues) | none | 6h |
 |8/03| Alpigiano | Developer| Solve some bugs and finish the animation | none | 6h + 3h in the afternoon |
 |8/03| Fenoglio| UI Programmer & Developer| Solve some bugs and finish the final animation | none | 6h + 3h in the afternoon|
+|9/03| Ferrando | DevOps | finished windows instruction, finished about-us repo| none | 6h |
