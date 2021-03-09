@@ -28,3 +28,4 @@
 |8/03| Ferrando | DevOps | created install tutorial, better github page| none | 6h |
 |8/03| Tomatis | UI Programmer & Developer| Solve some bugs (see the issues) | none | 6h |
 |8/03| Alpigiano | Developer| Solve some bugs and finish the animation | none | 6h + 2h |
+|8/03| Fenoglio| UI Programmer & Developer| Solve some bugs and finish the final animation | none | 6h + 2h |
