@@ -31,5 +31,5 @@
 |8/03| Fenoglio| programmer | Solve some bugs and finish the final animation | none | 6h + 3h in the afternoon|
 |9/03| Ferrando | DevOps | finished windows instruction, finished about-us repo| none | 6h |
 |9/03| Tomatis| UI Programmer & Developer | comment code | none | 6h |
-|9/03| Fenoglio|Developer | debug code | none | 6h |
+|9/03| Fenoglio|Developer | solve bugs  | none | 6h |
 |9/03| Alpigiano | Developer | solve bugs | none | 6h |
