@@ -35,3 +35,4 @@
 |9/03| Fenoglio|Developer | solve bugs  | none | 6h |
 |10/03| Fenoglio|Developer | solve bugs | none | 6h |
 |10/03| Alpigiano |Developer | perform algorithms | none | 6h |
+|9/03| Ferrando | DevOps | finished faq, debug| none | 6h |
