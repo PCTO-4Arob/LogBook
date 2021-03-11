@@ -4,7 +4,7 @@
 
 | Date | Student | Role | Activity | Seen by the tutor | Note |
 |:----:|:-------:|:----:|:--------:|:-----------------:|:----:|
-|1/03| Ferrando  | Manteiner | explanation of basics of git|  unnecessary | |
+|1/03| Ferrando  | Maintainer | explanation of basics of git|  unnecessary | |
 |1/03| Fenoglio  | Design Programmer | trying use git | unnecessary | |
 |1/03| Alpigiano | Sound Designer | trying use git | unnecessary| |
 |1/03| Tomatis   | UI Programmer | learn git and define the game concept|| |
@@ -38,4 +38,4 @@
 |10/03| Alpigiano |Developer | perform algorithms | none | 6h |
 |10/03| Tomatis | UI programmer & Developer | debug code | none | 6h
 |11/03| Ferrando | DevOps | finished about-us, debug| none | 6h |
-|10/03| Tomatis | UI programmer & Developer | prepare demo | none | 6h
+|11/03| Tomatis | UI programmer & Developer | prepare demo | none | 6h
