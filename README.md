@@ -33,3 +33,4 @@
 |9/03| Tomatis| UI Programmer & Developer | comment code | none | 6h |
 |9/03| Alpigiano | Developer | solve bugs | none | 6h |
 |9/03| Fenoglio|Developer | solve bugs  | none | 6h |
+|9/03| Fenoglio|Developer | solve bugs | none | 6h |
