@@ -33,7 +33,8 @@
 |9/03| Tomatis| UI Programmer & Developer | comment code | none | 6h |
 |9/03| Alpigiano | Developer | solve bugs | none | 6h |
 |9/03| Fenoglio|Developer | solve bugs  | none | 6h |
-|9/03| Ferrando | DevOps | finished faq, debug| none | 6h |
+|10/03| Ferrando | DevOps | finished faq, debug| none | 6h |
 |10/03| Fenoglio|Developer | solve bugs | none | 6h |
 |10/03| Alpigiano |Developer | perform algorithms | none | 6h |
 |10/03| Tomatis | UI programmer & Developer | debug code | none | 6h
+|11/03| Ferrando | DevOps | finished about-us, debug| none | 6h |
