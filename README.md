@@ -38,3 +38,4 @@
 |10/03| Alpigiano |Developer | perform algorithms | none | 6h |
 |10/03| Tomatis | UI programmer & Developer | debug code | none | 6h
 |11/03| Ferrando | DevOps | finished about-us, debug| none | 6h |
+|10/03| Tomatis | UI programmer & Developer | prepare demo | none | 6h
