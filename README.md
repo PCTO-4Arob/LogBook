@@ -36,9 +36,12 @@
 |10/03| Ferrando | DevOps | finished faq, debug| none | 6h |
 |10/03| Fenoglio|Developer | solve bugs | none | 6h |
 |10/03| Alpigiano |Developer | perform algorithms | none | 6h |
-|10/03| Tomatis | UI programmer & Developer | debug code | none | 6h
+|10/03| Tomatis | UI programmer & Developer | debug code | none | 6h|
 |11/03| Ferrando | DevOps | finished about-us, debug| none | 6h |
-|11/03| Tomatis | UI programmer & Developer | prepare demo | none | 6h
-|11/03| Fenoglio | Developer | prepare demo, debug | none | 6h
-|11/03| Alpigiano | Developer | debug, looking for errors | none | 6h
-|12/03| Tomatis | UI programmer & Developer | demo presentation | none | 6h
+|11/03| Tomatis | UI programmer & Developer | prepare demo | none | 6h|
+|11/03| Fenoglio | Developer | prepare demo, debug | none | 6h|
+|11/03| Alpigiano | Developer | debug, looking for errors | none | 6h|
+|12/03| Tomatis | UI programmer & Developer | demo presentation | none | 6h|
+|11/03| Ferrando | DevOps | presentation, relation| none | 6h |
+|11/03| Fenoglio | Developer |presentation, relation | none | 6h
+|11/03| Alpigiano | Developer | presentation, relation | none | 6h
